@@ -9,25 +9,24 @@
 2. **Compile the project:** If you're using the command line, navigate to the `src/` directory and compile the `.java` files: <br />
 
 3. **Run the game:** <br />
-<!--
+
+## Game Rules
+
+- Players take turns adding symbols between dots on a grid.
+- The first player to complete a box wins the game.
+- Player 1 choices are shown using the symbols `-` and `|`.
+- Player 2 choices are shown using the symbols `!` and `=`.
+
 ## Screenshots
 
-| ![Startup Screen](./screenshots/Pawn%20Promotion.png) | 
-|:--:| 
-| *Startup Screen* |
+| ![Initial Game Setup](./screenshots/initial_game_setup.png) | ![First Move](./screenshots/first_move.png) | |
+|:--:|:--:|:--:|
+| *Initial Game Setup* | *First Move* | *place holder* |
 
-| ![Game Board](./screenshots/Game%20Board.png) | 
-|:--:| 
-| *Game Board* |
+## Contributing
 
-| ![Piece Selection](./screenshots/Pawn%20Promotion.png) | 
-|:--:| 
-| *Piece Selection* |
+Feel free to submit issues or pull requests if you find bugs or want to improve the game.
 
-| ![Check Situation](./screenshots/Check.png) | 
-|:--:| 
-| *Check Situation* |
+## License
 
-| ![Pawn Promotion](./screenshots/Pawn%20Promotion.png) | 
-|:--:| 
-| *Pawn Promotion* |
+This project is open-source and available under the MIT License.
