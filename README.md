@@ -19,9 +19,13 @@
 
 ## Screenshots
 
-| ![Initial Game Setup](./screenshots/initial_game_setup.png) | ![First Move](./screenshots/first_move.png) | |
+| ![Initial Game Setup](./screenshots/initial_game_setup.png) | ![First Move](./screenshots/first_move.png) | ![Player 2's (Susan) Winning Opportunity](./screenshots/player_2's_winning_oppurtunity.png) |
 |:--:|:--:|:--:|
-| *Initial Game Setup* | *First Move* | *place holder* |
+| *a. Initial Game Setup* | *b. First Move* | *c. Player 2's (Susan) Winning Opportunity* |
+
+| ![Player 1's Defensive Move](./screenshots/player_1's_defensive_move.png) | ![Player 2's Second Attempt to Win](./screenshots/player_2's_second_attempt_to_win.png) | ![Player 2 Wins](./screenshots/player_2_wins.png) |
+|:--:|:--:|:--:|
+| *d. Player 1's Defensive Move* | *e. Player 2's Second Attempt to Win* | *f. Player 2 Wins* |
 
 ## Contributing
 
